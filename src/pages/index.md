@@ -5,7 +5,7 @@ title: Up to zero! 🪐
 
 <header id="page-header">
   <h1>
-    Up to zero! 🪐
+This is great!
   </h1>
   <p>Get started:</p>
   <ul>
