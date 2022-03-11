@@ -1,59 +1,62 @@
-# my_awesome_demo_site
+# 🪐my_awesome_demo_site
 
-This site uses [Eleventy](https://www.11ty.dev), [GitHub](https://github.com), and [Netlify](https://netlify.com).
+A free, new-user-friendly website starter project designed to walk you through creating, editing, and publishing any web project; from a personal blog, to a company website!
 
-## Start creating your site
+Read more at [https://getMy-awesome-demo-site.com](https://getMy-awesome-demo-site.com)!
 
-Create and edit your site **right from this readme file!**.
+## What is my_awesome_demo_site?
 
-## Step 1: Creating and editing site pages and content
+### For new users
 
-### Pages
+_my_awesome_demo_site_ is a free, new-user-friendly website starter designed to walk you through creating and publishing a fast, secure web project using modern tools and technology. my_awesome_demo_site makes it easy to "get up to zero" and start building your site.
 
-Create your site's main content! Pages can be written in HTML or [Markdown](https://www.markdownguide.org/basic-syntax/)!
+### For experienced developers
 
-* [Edit the homepage](https://github.com/MWDelaney/My-awesome-demo-site/edit/master/src/pages/index.md)
-* [Create a new page](https://github.com/MWDelaney/My-awesome-demo-site/new/master/?filename=/src/pages/&value=---%0Atitle%3A%20Enter%20page%20title%20here%0A---)
+_my_awesome_demo_site_ is a modern, opinionated, bare-bones Jamstack starter using Eleventy to get "up to zero" on a project quickly and easily.
+Why you might choose _my_awesome_demo_site_ as your Jamstack starter:
 
-Or edit your entire site in a web-based editor by [clicking here](https://github.dev/MWDelaney/My-awesome-demo-site/). Your changes will be automatically saved to this GitHub repository and published to your site.
+* Powered by Eleventy, which [rocks](https://11ty.rocks)!
+* No CSS frameworks or libraries; use whatever you like best
+* GitHub Action replaces the my_awesome_demo_site name throughout the site with your project's name!
+* Custom generated project-specific [readme file](https://github.com/MWDelaney/my_awesome_demo_site/blob/master/README.my_awesome_demo_site.md) to help you take the next steps and launch your project!
+* Sass for CSS
+* Javascript compilation and minification
+* Browsersync to preview your work
 
-<!--
+## Get started: Use This Template
 
----
-#### Posts
-Blog posts
-* [Create a new post](https://github.com/MWDelaney/My-awesome-demo-site/new/master/?filename=/src/posts/&value=----%0Atitle%3A%20%22Enter%20post%20title%22%0Adate%3A%20%222025-01-01%0A---)
+Get started with my_awesome_demo_site one of the following ways:
 
--->
+<details open>
+ <summary>Start with GitHub</summary>
 
-## Step 2: Look and Feel
+Create a new project using my_awesome_demo_site and add it to your GitHub account
 
-### Navigation
+<a href="https://github.com/MWDelaney/my_awesome_demo_site/generate">
+  <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge">
+</a>
+ </details>
 
-Your site's navigation is how your users will get around! Edit the site's navigation menu in [JSON format](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)!
+<details open>
+ <summary>Start with Netlify</summary>
 
-* [Edit the navigation](https://github.com/MWDelaney/My-awesome-demo-site/edit/master/src/data/navigation.json)
+Create a copy of my_awesome_demo_site and deploy it straight to [Netlify](https://netlify.com) for **free**!
 
-### Styles
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MWDelaney/my_awesome_demo_site)
 
-Colors, spacing, and fonts, oh my! You can edit your branding and styles here using CSS, SCSS, and CSS variables! Remember adding styles on MySpace? Same thing!
 
-* [Edit your branding](https://github.com/MWDelaney/My-awesome-demo-site/edit/master/src/assets/styles/_branding.scss)
-* [Edit your overall styles](https://github.com/MWDelaney/My-awesome-demo-site/edit/master/src/assets/styles/styles.scss)
+ </details>
 
-Learning CSS can be daunting but there are a ton of useful resources on the web. Check out [SmolCSS](https://smolcss.dev) to get started!
+<details>
+ <summary>With GitHub CLI (https://cli.github.com)</summary>
 
-### Javascript
+Get started from your command line
 
-**Optional!** Add javascript functionality to your site
+ ```sh
+  gh repo create example.com --template MWDelaney/my_awesome_demo_site
+ ```
 
-* [Add Javascript](https://github.com/MWDelaney/My-awesome-demo-site/edit/master/src/assets/scripts/main.js)
-
-## Step 3: Deploy my_awesome_demo_site
-
-### [Launch my_awesome_demo_site on Netlify for Free!](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
-
----
+</details>
 
 ## Get to Know my_awesome_demo_site
 
